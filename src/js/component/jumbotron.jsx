@@ -9,7 +9,7 @@ const Jumbotron = () => {
 				<p className="lead">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 					Donec aliquam hendrerit diam. Quisque ac laoreet turpis.
-					Proin justo quam, bibendum et luctus non, varius ut eros.
+					Proin justo quam , bibendum et luctus non, varius ut eros.
 				</p>
 				<p className="lead">
 					<a

@@ -2,12 +2,10 @@ import React from "react";
 
 //retorna jsx
 const Card = () => {
-	let estilo = {
-		width: "16rem",
-	};
+	
 	return (
 		<div>
-			<div className="card" style={estilo}>
+			<div className="card" style={{ width: "16rem" }}>
 				<img
 					className="card-img-top"
 					src="https://image.shutterstock.com/shutterstock/photos/323592404/display_1500/stock-vector-picture-icon-323592404.jpg"
