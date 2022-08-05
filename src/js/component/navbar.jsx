@@ -1,3 +1,5 @@
+import React from "react";
+
 //retorna jsx
 const Navbar = () => {
 	return (
@@ -17,7 +19,7 @@ const Navbar = () => {
 					class="collapse navbar-collapse d-flex justify-content-between"
 					id="navbarTogglerDemo01">
 					<a className="navbar-brand text-white" href="#">
-						Start Bootstrap
+						L_P Bootstrap
 					</a>
 					<ul className="navbar-nav ml-auto mt-2 mt-lg-0">
 						<li class="nav-item active">
